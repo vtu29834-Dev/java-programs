@@ -50,3 +50,9 @@ public class Solution {
         sc.close();
     }
 }
+output:-
+    amy 100
+david 100
+maria 100
+aakansha 75
+herald 50
